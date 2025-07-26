@@ -12,7 +12,18 @@ main {
 article {
     flex: 2;
     overflow-y: auto;
+    background-color: rgb(244, 255, 83);
+    margin: 2rem; 
 }
+
+article h1, h2, h3 {
+    color: rgb(89, 85, 85); 
+}
+
+article p {
+    color: rgb(107, 104, 104);
+}
+
 aside {
     flex: 1;
     overflow-y: auto;
