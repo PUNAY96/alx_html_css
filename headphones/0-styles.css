@@ -99,6 +99,7 @@ body, html {
 .hero-content h1 {
   font-size: 1.8rem;
   margin-bottom: 0;
+  font-weight: bold;
 }
 
 .hero-content h3 {
