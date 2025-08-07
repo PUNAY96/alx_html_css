@@ -296,9 +296,9 @@ span {
 }
 
 .our-results .description {
-  max-width: 700px;
+  max-width: 660px;
   margin: 0 auto 50px auto;
-  font-size: 1.025rem;
+  font-size: 1rem;
   color: white;
   line-height: 1.6;
 }
