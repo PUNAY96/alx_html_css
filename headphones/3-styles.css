@@ -411,3 +411,42 @@ span {
     opacity: 0.9;
 } 
 
+@media only screen and (max-width: 480px) {
+  .contact-us {
+    max-width: 100%;         
+    margin: 20px 10px;        
+    padding-left: 50px;           
+    text-align: center;       
+  }
+
+  .contact-us h2 {
+    font-size: 1.2rem;       
+    margin-top: 30px;
+    margin-bottom: 20px;
+    padding-right: 40px;
+  }
+
+  .contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;             
+    text-align: left;
+    max-width: 80%;
+  }
+
+  .contact-form label {
+    font-size: 10px;
+  }
+
+  .contact-form input,
+  .contact-form text {
+    width: 100%;             
+    font-size: 14px;
+  }
+
+  .cta-button2 {
+    width: 100%;
+    text-align: center;
+  }
+}
+
