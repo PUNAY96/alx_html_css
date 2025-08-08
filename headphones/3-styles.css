@@ -115,6 +115,7 @@ body, html {
 .cta-button {
   display: inline-block;
   font-size: small;
+  max-width: fit-content;
   padding: 8px 20px;
   background-color: #ff4b5c;
   color: white;
@@ -174,7 +175,7 @@ body, html {
   }
 
   .logo img {
-    width: 150px;
+    width: 200px;
     padding-top: 20px;
   }
 
@@ -409,6 +410,4 @@ span {
 .cta-button2:active {
     opacity: 0.9;
 } 
-
-
 
